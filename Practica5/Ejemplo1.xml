@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\icela\Desktop\Practica5/Ejemplo1.xsl"?>
+<Perros>
+     <Perro>
+     <nombre>Terry</nombre>
+     <raza>Bulldog Inglés</raza>
+     </Perro>
+   
+     <Perro>
+     <nombre>Bombom</nombre>
+     <raza>Pinscher miniatura</raza>
+     </Perro>
+   
+     <Perro>
+     <nombre>Boby</nombre>
+     <raza>Pitbull</raza>
+     </Perro>
+     
+     <Perro>
+     <nombre>Tovy</nombre>
+     <raza>Pug</raza>
+     </Perro>
+     
+     <Perro>
+     <nombre>Darko</nombre>
+     <raza>Pastor aleman</raza>
+     </Perro>
+     
+     <Perro>
+     <nombre>Canela</nombre>
+     <raza>Salchicha</raza>
+     </Perro>
+     
+     <Perro>
+     <nombre>Manchas</nombre>
+     <raza>Labrador</raza>
+     </Perro>
+     
+     
+</Perros>
